@@ -13,4 +13,5 @@ NASA Global Modeling and Assimilation Office, (https://gmao.gsfc.nasa.gov/reanal
 
 シミュレーション結果の出力データ。
 
+ファイル名のフォーマット：
 DomeFuji_season_percentile.out
