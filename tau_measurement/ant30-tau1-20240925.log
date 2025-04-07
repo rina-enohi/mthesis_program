@@ -1,0 +1,746 @@
+[2024/09/25-15:57:08.348-src/u/u.cpp-78] Use logfile(../log/ant30/ant30-tau1-20240925155708.log)
+[2024/09/25-15:57:08.348-tkb32Func.cpp-328] This program is Compiled at 2024/09/25-15:44:52
+[2024/09/25-15:57:08.348-tkb32Func.cpp-329] ### Initialization
+[2024/09/25-15:57:08.348-tkb32Func.cpp-365] ## Parameter list
+[2024/09/25-15:57:08.348-src/conf/conf.cpp-306] ===== ===== =====
+AntAltitude     10.0
+AntAzMarg       0.005
+AntAzMaximum    400
+AntAzMinimum    -89.0
+AntElMarg       0.005
+AntElMaximum    83
+AntElMinimum    5.0
+AntInst1        0.0000000000  0.0000000000  0.0000000000  0.0000000000  0.0000000000
+AntInst2        0.0000000000  0.0000000000  0.0000000000  0.0000000000  0.0000000000
+AntInst3        0.0000000000  0.0000000000  0.0000000000  0.0000000000  0.0000000000
+AntInst4        0.0000000000  0.0000000000  0.0000000000  0.0000000000  0.0000000000
+AntInst5        0.0000000000  0.0000000000  0.0000000000  0.0000000000  0.0000000000
+AntInst6        0.0000000000  0.0000000000  0.0000000000  0.0000000000  0.0000000000
+AntPosLa        36.1031
+AntPosLo        140.0887
+AntRadioInst0   0.00000000  0.00000000  0.000000000  0.000000000
+AntRadioInst1   0.00000000  0.00000000  0.000000000  0.000000000
+AntRadioInst2   0.00000000  0.00000000  0.000000000  0.000000000
+AntX    -3957764.417000
+AntY    3309215.617000
+AntZ    3738004.452000
+BeInterval      0.5
+BeIp01  192.168.11.1
+BeIp02  192.168.11.6
+BeIp17  127.0.0.1
+BeNum   1
+BePort01        10006
+BePort02        10007
+BePort17        10017
+BeUse01 1
+BeUse02 1
+BeUse17 0
+Coordinate      3
+Definition      0
+DeviceTable     0712.device
+DeviceVersion   0.1.1
+EnvAnt  ../etc/ant_err.dat
+EnvEph  ../etc/ephfile/19241221-20500102.ORG
+EnvTime ../etc/time.dat
+Epoch   0
+Fif_1   14.960000
+Fif_2   16.160000
+Frame   0
+FsaL_H1 1.160000
+FsaL_H2 1.360000
+Ftrack_1        461.040000
+Ftrack_2        492.160000
+Group   antarctica
+IfAttDecR_1     1
+IfAttDecR_2     3
+IfAtt_1 2
+IfAtt_2 4
+Lo1     476.000000
+Lo1Amp  2
+Lo2Amp  15
+LoInterval      60
+Mode_H1 1000
+Mode_H2 1000
+NumOfChannels   1024
+ObsTable        tau1.obs
+ObsVersion      0.1.1
+Observer        enohi
+OffCoord        3
+OffMode 1
+OffNumber       1
+OffX1_HorD      0
+OffX1_Min       0
+OffX1_Sec       0.000000
+OffX2_HorD      0
+OffX2_Min       0
+OffX2_Sec       0.000000
+OffY1_Deg       0
+OffY1_Min       0
+OffY1_Sec       0.000000
+OffY2_Deg       0
+OffY2_Min       0
+OffY2_Sec       0.000000
+OnCoord 3
+OnNumber        20
+OnOffTime       3
+OnX10_Deg       0
+OnX10_Min       0
+OnX10_Sec       0.000000
+OnX11_Deg       0
+OnX11_Min       0
+OnX11_Sec       0.000000
+OnX12_Deg       0
+OnX12_Min       0
+OnX12_Sec       0.000000
+OnX13_Deg       0
+OnX13_Min       0
+OnX13_Sec       0.000000
+OnX14_Deg       0
+OnX14_Min       0
+OnX14_Sec       0.000000
+OnX15_Deg       0
+OnX15_Min       0
+OnX15_Sec       0.000000
+OnX16_Deg       0
+OnX16_Min       0
+OnX16_Sec       0.000000
+OnX17_Deg       0
+OnX17_Min       0
+OnX17_Sec       0.000000
+OnX18_Deg       0
+OnX18_Min       0
+OnX18_Sec       0.000000
+OnX19_Deg       0
+OnX19_Min       0
+OnX19_Sec       0.000000
+OnX1_Deg        0
+OnX1_Min        0
+OnX1_Sec        0.000000
+OnX20_Deg       0
+OnX20_Min       0
+OnX20_Sec       0.000000
+OnX2_Deg        0
+OnX2_Min        0
+OnX2_Sec        0.000000
+OnX3_Deg        0
+OnX3_Min        0
+OnX3_Sec        0.000000
+OnX4_Deg        0
+OnX4_Min        0
+OnX4_Sec        0.000000
+OnX5_Deg        0
+OnX5_Min        0
+OnX5_Sec        0.000000
+OnX6_Deg        0
+OnX6_Min        0
+OnX6_Sec        0.000000
+OnX7_Deg        0
+OnX7_Min        0
+OnX7_Sec        0.000000
+OnX8_Deg        0
+OnX8_Min        0
+OnX8_Sec        0.000000
+OnX9_Deg        0
+OnX9_Min        0
+OnX9_Sec        0.000000
+OnY10_Deg       -56
+OnY10_Min       0
+OnY10_Sec       0.000000
+OnY11_Deg       -57
+OnY11_Min       -33
+OnY11_Sec       -47.19
+OnY12_Deg       -58
+OnY12_Min       -57
+OnY12_Sec       -51.5
+OnY13_Deg       -60
+OnY13_Min       -13
+OnY13_Sec       -42.73
+OnY14_Deg       -61
+OnY14_Min       -22
+OnY14_Sec       -32.45
+OnY15_Deg       -62
+OnY15_Min       -25
+OnY15_Sec       -18.55
+OnY16_Deg       -63
+OnY16_Min       -22
+OnY16_Sec       -48.48
+OnY17_Deg       -64
+OnY17_Min       -15
+OnY17_Sec       -41.54
+OnY18_Deg       -65
+OnY18_Min       -4
+OnY18_Sec       -30.60
+OnY19_Deg       -65
+OnY19_Min       -49
+OnY19_Sec       -43.42
+OnY1_Deg        -20
+OnY1_Min        -37
+OnY1_Sec        -11.91
+OnY20_Deg       -66
+OnY20_Min       -31
+OnY20_Sec       -43.60
+OnY2_Deg        -29
+OnY2_Min        -33
+OnY2_Sec        -26.31
+OnY3_Deg        -35
+OnY3_Min        -42
+OnY3_Sec        -54.49
+OnY4_Deg        -40
+OnY4_Min        -24
+OnY4_Sec        -55.11
+OnY5_Deg        -44
+OnY5_Min        -11
+OnY5_Sec        -22.86
+OnY6_Deg        -47
+OnY6_Min        -19
+OnY6_Sec        -4.12
+OnY7_Deg        -49
+OnY7_Min        -58
+OnY7_Sec        -5.23
+OnY8_Deg        -52
+OnY8_Min        -15
+OnY8_Sec        -3.64
+OnY9_Deg        -54
+OnY9_Min        -14
+OnY9_Sec        -35.29
+PosAngle        0.000000
+Project teion
+RSkyInterval    1
+RSkyTime        1
+ScanFlag        4
+ScanTable       tau1.scan
+ScanVersion     0.1.1
+SetNumber       1
+SetPattern      R,A,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+SourceFlag      99
+SourceName      pole
+SourceTable     tau1.source
+SourceVersion   0.1.1
+TAU     0.05
+TimeDump        0.1
+TimeOneInteg    0.1
+TrkInterval     0.30
+TrkTimeOffset   0.05
+Velocity        0.000000
+X_HorD  180
+X_Min   0
+X_Sec   0.000000
+Y_Deg   80
+Y_Min   0
+Y_Sec   0.000000
+bandwidthSM     1500.000000
+lo2_1   13.800000
+lo2_2   14.800000
+saacqlevel      1
+saacqmintime    0.01
+tkb32ip 192.168.11.22
+tkb32port       10001
+===== ===== =====
+[2024/09/25-15:57:08.350-tkb32Func.cpp-391] obsInit(); SchFile Data
+[2024/09/25-15:57:08.350-src/conf/conf.cpp-306] ===== ===== =====
+AntAltitude     10.000000
+AntAzMarg       0.005
+AntAzMaximum    400
+AntAzMinimum    -89.0
+AntElMarg       0.005
+AntElMaximum    83
+AntElMinimum    5.0
+AntInst1        0.0000000000  0.0000000000  0.0000000000  0.0000000000  0.0000000000
+AntInst2        0.0000000000  0.0000000000  0.0000000000  0.0000000000  0.0000000000
+AntInst3        0.0000000000  0.0000000000  0.0000000000  0.0000000000  0.0000000000
+AntInst4        0.0000000000  0.0000000000  0.0000000000  0.0000000000  0.0000000000
+AntInst5        0.0000000000  0.0000000000  0.0000000000  0.0000000000  0.0000000000
+AntInst6        0.0000000000  0.0000000000  0.0000000000  0.0000000000  0.0000000000
+AntPosLa        36.103100
+AntPosLo        140.088700
+AntRadioInst0   0.00000000  0.00000000  0.000000000  0.000000000
+AntRadioInst1   0.00000000  0.00000000  0.000000000  0.000000000
+AntRadioInst2   0.00000000  0.00000000  0.000000000  0.000000000
+AntX    -3957764.417000
+AntY    3309215.617000
+AntZ    3738004.452000
+BeInterval      0.5
+BeIp01  192.168.11.1
+BeIp02  192.168.11.6
+BeIp17  127.0.0.1
+BeNum   1
+BePort01        10006
+BePort02        10007
+BePort17        10017
+BeUse01 1
+BeUse02 1
+BeUse17 0
+Coordinate      3
+Definition      0
+DeviceTable     0712.device
+DeviceVersion   0.1.1
+EnvAnt  ../etc/ant_err.dat
+EnvEph  ../etc/ephfile/19241221-20500102.ORG
+EnvTime ../etc/time.dat
+Epoch   0
+Fif_1   14.960000
+Fif_2   16.160000
+Frame   0
+FsaL_H1 1.160000
+FsaL_H2 1.360000
+Ftrack_1        461.040000
+Ftrack_2        492.160000
+Group   antarctica
+IfAttDecR_1     1.000000
+IfAttDecR_2     3.000000
+IfAtt_1 2.000000
+IfAtt_2 4.000000
+Lo1     476.000000
+Lo1Amp  2
+Lo2Amp  15
+LoInterval      60
+Mode_H1 1000
+Mode_H2 1000
+NumOfChannels   1024
+ObsTable        tau1.obs
+ObsVersion      0.1.1
+Observer        enohi
+OffCoord        3
+OffMode 1
+OffNumber       1
+OffX1_HorD      0
+OffX1_Min       0
+OffX1_Rad       0.000000000000000
+OffX1_Sec       0.000000
+OffX2_HorD      0
+OffX2_Min       0
+OffX2_Sec       0.000000
+OffY1_Deg       0
+OffY1_Min       0
+OffY1_Rad       0.000000000000000
+OffY1_Sec       0.000000
+OffY2_Deg       0
+OffY2_Min       0
+OffY2_Sec       0.000000
+OnCoord 3
+OnNumber        20
+OnOffTime       3
+OnX10_Deg       0
+OnX10_Min       0
+OnX10_Rad       0.000000000000000
+OnX10_Sec       0.000000
+OnX11_Deg       0
+OnX11_Min       0
+OnX11_Rad       0.000000000000000
+OnX11_Sec       0.000000
+OnX12_Deg       0
+OnX12_Min       0
+OnX12_Rad       0.000000000000000
+OnX12_Sec       0.000000
+OnX13_Deg       0
+OnX13_Min       0
+OnX13_Rad       0.000000000000000
+OnX13_Sec       0.000000
+OnX14_Deg       0
+OnX14_Min       0
+OnX14_Rad       0.000000000000000
+OnX14_Sec       0.000000
+OnX15_Deg       0
+OnX15_Min       0
+OnX15_Rad       0.000000000000000
+OnX15_Sec       0.000000
+OnX16_Deg       0
+OnX16_Min       0
+OnX16_Rad       0.000000000000000
+OnX16_Sec       0.000000
+OnX17_Deg       0
+OnX17_Min       0
+OnX17_Rad       0.000000000000000
+OnX17_Sec       0.000000
+OnX18_Deg       0
+OnX18_Min       0
+OnX18_Rad       0.000000000000000
+OnX18_Sec       0.000000
+OnX19_Deg       0
+OnX19_Min       0
+OnX19_Rad       0.000000000000000
+OnX19_Sec       0.000000
+OnX1_Deg        0
+OnX1_Min        0
+OnX1_Rad        0.000000000000000
+OnX1_Sec        0.000000
+OnX20_Deg       0
+OnX20_Min       0
+OnX20_Rad       0.000000000000000
+OnX20_Sec       0.000000
+OnX2_Deg        0
+OnX2_Min        0
+OnX2_Rad        0.000000000000000
+OnX2_Sec        0.000000
+OnX3_Deg        0
+OnX3_Min        0
+OnX3_Rad        0.000000000000000
+OnX3_Sec        0.000000
+OnX4_Deg        0
+OnX4_Min        0
+OnX4_Rad        0.000000000000000
+OnX4_Sec        0.000000
+OnX5_Deg        0
+OnX5_Min        0
+OnX5_Rad        0.000000000000000
+OnX5_Sec        0.000000
+OnX6_Deg        0
+OnX6_Min        0
+OnX6_Rad        0.000000000000000
+OnX6_Sec        0.000000
+OnX7_Deg        0
+OnX7_Min        0
+OnX7_Rad        0.000000000000000
+OnX7_Sec        0.000000
+OnX8_Deg        0
+OnX8_Min        0
+OnX8_Rad        0.000000000000000
+OnX8_Sec        0.000000
+OnX9_Deg        0
+OnX9_Min        0
+OnX9_Rad        0.000000000000000
+OnX9_Sec        0.000000
+OnY10_Deg       -56
+OnY10_Min       0
+OnY10_Rad       -0.977384381116825
+OnY10_Sec       0.000000
+OnY11_Deg       -57
+OnY11_Min       -33
+OnY11_Rad       -0.985009579174683
+OnY11_Sec       -47.19
+OnY12_Deg       -58
+OnY12_Min       -57
+OnY12_Rad       -0.995460659216994
+OnY12_Sec       -51.5
+OnY13_Deg       -60
+OnY13_Min       -13
+OnY13_Rad       -1.043208843598005
+OnY13_Sec       -42.73
+OnY14_Deg       -61
+OnY14_Min       -22
+OnY14_Rad       -1.058093981086375
+OnY14_Sec       -32.45
+OnY15_Deg       -62
+OnY15_Min       -25
+OnY15_Rad       -1.074741998081995
+OnY15_Sec       -18.55
+OnY16_Deg       -63
+OnY16_Min       -22
+OnY16_Rad       -1.092922850493180
+OnY16_Sec       -48.48
+OnY17_Deg       -64
+OnY17_Min       -15
+OnY17_Rad       -1.112446006543252
+OnY17_Sec       -41.54
+OnY18_Deg       -65
+OnY18_Min       -4
+OnY18_Rad       -1.133152107975232
+OnY18_Sec       -30.60
+OnY19_Deg       -65
+OnY19_Min       -49
+OnY19_Rad       -1.119999985471356
+OnY19_Sec       -43.42
+OnY1_Deg        -20
+OnY1_Min        -37
+OnY1_Rad        -0.338245245368814
+OnY1_Sec        -11.91
+OnY20_Deg       -66
+OnY20_Min       -31
+OnY20_Rad       -1.142688393082656
+OnY20_Sec       -43.60
+OnY2_Deg        -29
+OnY2_Min        -33
+OnY2_Rad        -0.496418617712887
+OnY2_Sec        -26.31
+OnY3_Deg        -35
+OnY3_Min        -42
+OnY3_Rad        -0.598383758459218
+OnY3_Sec        -54.49
+OnY4_Deg        -40
+OnY4_Min        -24
+OnY4_Rad        -0.690883202970095
+OnY4_Sec        -55.11
+OnY5_Deg        -44
+OnY5_Min        -11
+OnY5_Rad        -0.764634272174680
+OnY5_Sec        -22.86
+OnY6_Deg        -47
+OnY6_Min        -19
+OnY6_Rad        -0.814757898149024
+OnY6_Sec        -4.12
+OnY7_Deg        -49
+OnY7_Min        -58
+OnY7_Rad        -0.838314461619088
+OnY7_Sec        -5.23
+OnY8_Deg        -52
+OnY8_Min        -15
+OnY8_Rad        -0.903190240689073
+OnY8_Sec        -3.64
+OnY9_Deg        -54
+OnY9_Min        -14
+OnY9_Rad        -0.938234270407554
+OnY9_Sec        -35.29
+PosAngle        0.000000
+PosAngle_Rad    0.000000000000000
+Project teion
+RSkyInterval    1
+RSkyTime        1
+ScanFlag        4
+ScanTable       tau1.scan
+ScanVersion     0.1.1
+SetNumber       1
+SetPattern      R,A,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+SourceFlag      99
+SourceName      pole
+SourceTable     tau1.source
+SourceVersion   0.1.1
+TAU     0.050000
+TimeDump        0.1
+TimeOneInteg    0.1
+TrkInterval     0.30
+TrkTimeOffset   0.05
+Velocity        0.000000
+X_HorD  180
+X_Min   0
+X_Rad   3.141592653589793
+X_Sec   0.000000
+Y_Deg   80
+Y_Min   0
+Y_Rad   1.396263401595464
+Y_Sec   0.000000
+bandwidthSM     1500.000000
+fif_1   0.000000
+fif_2   0.000000
+lo2_1   13.800000
+lo2_2   14.800000
+saacqlevel      1
+saacqmintime    0.01
+tkb32ip 192.168.11.22
+tkb32port       10001
+===== ===== =====
+[2024/09/25-15:57:08.350-trk.cpp-1308] trkSetPof(); PAZEL = 0.000000 0.000000 [deg]
+[2024/09/25-15:57:08.350-trk.cpp-1309] trkSetPof(); Set Pointing Offset=(0.00",0.00") coord=3(AZEL)
+[2024/09/25-15:57:08.350-scanTable.cpp-258] trkInitParam(); scan.SetPattern length=54
+[2024/09/25-15:57:08.350-scanTable.cpp-261] trkInitParam(); debug SetPattern R,A,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+[2024/09/25-15:57:08.350-scanTable.cpp-280] trkInitParam(); debug seq.mapNum=22
+[2024/09/25-15:57:08.350-scanTable.cpp-368] map:0
+[2024/09/25-15:57:08.350-scanTable.cpp-368] map:-1
+[2024/09/25-15:57:08.350-scanTable.cpp-368] map:1
+[2024/09/25-15:57:08.350-scanTable.cpp-368] map:2
+[2024/09/25-15:57:08.350-scanTable.cpp-368] map:3
+[2024/09/25-15:57:08.350-scanTable.cpp-368] map:4
+[2024/09/25-15:57:08.350-scanTable.cpp-368] map:5
+[2024/09/25-15:57:08.350-scanTable.cpp-368] map:6
+[2024/09/25-15:57:08.350-scanTable.cpp-368] map:7
+[2024/09/25-15:57:08.350-scanTable.cpp-368] map:8
+[2024/09/25-15:57:08.350-scanTable.cpp-368] map:9
+[2024/09/25-15:57:08.350-scanTable.cpp-368] map:10
+[2024/09/25-15:57:08.350-scanTable.cpp-368] map:11
+[2024/09/25-15:57:08.350-scanTable.cpp-368] map:12
+[2024/09/25-15:57:08.350-scanTable.cpp-368] map:13
+[2024/09/25-15:57:08.350-scanTable.cpp-368] map:14
+[2024/09/25-15:57:08.350-scanTable.cpp-368] map:15
+[2024/09/25-15:57:08.350-scanTable.cpp-368] map:16
+[2024/09/25-15:57:08.350-scanTable.cpp-368] map:17
+[2024/09/25-15:57:08.350-scanTable.cpp-368] map:18
+[2024/09/25-15:57:08.350-scanTable.cpp-368] map:19
+[2024/09/25-15:57:08.350-scanTable.cpp-368] map:20
+[2024/09/25-15:57:08.350-celestialObject.cpp-77] Epoch is 0! I WILL SET IT TO 2!! check the table!
+[2024/09/25-15:57:08.350-trk.cpp-577] trkInitParam() #1
+[2024/09/25-15:57:08.350-calcBoth.cpp-688] _trkSetSof(); Set scan offset(0.00",-69768.09") coord=3(AZEL)
+[2024/09/25-15:57:08.350-penguin_tracking.cpp-152] _setTime(): 20240925155708.350470
+[2024/09/25-15:57:08.351-penguin_tracking.cpp-366] penguin_tracking_work(): LST=0.000000, (Az, El)=(3.141593, 1.058018)
+[2024/09/25-15:57:08.351-instrument.cpp-114] instrumentCalInst(); (Az, El)=(3.141593, 1.058197) -> (dAz, dEl)=(0.000000, 0.000000)
+[2024/09/25-15:57:08.351-instrument.cpp-170] instrumentRadioModel(); (Az, El)=(3.141593, 1.058197) -> (dAz, dEl)=(0.000000, 0.000000)
+[2024/09/25-15:57:08.351-trk.cpp-1678] _trkCalZoneTypeInit(); Set antZoneType=0
+[2024/09/25-15:57:08.351-be.cpp-185] beReqInit() p.BeNum: 1
+[2024/09/25-15:57:08.351-be.cpp-186] beReqInit(); p.ans[0].endExeFlag: 0
+[2024/09/25-15:57:08.351-tkb32Func.cpp-432] obsInit(); ifUpdate();
+[2024/09/25-15:57:08.351-if.cpp-685] ifSetAttOnOffR(); Set OnOffR=2 StepAtt=1.0 [dB]
+[2024/09/25-15:57:08.351-calcBoth.cpp-1101] ifUpdate(); Fobs +4.760000000e+11 Hz,  Fdop +4.760000000e+11 Hz,  Vrad +0.000000000 m/s
+[2024/09/25-15:57:08.351-if.cpp-463] Request Lo1(476.000000000 GHz, 2.0 dBm), Att  1.0 dB
+[2024/09/25-15:57:08.351-if.cpp-465] Answer  Lo1(0.000000000 GHz,  0.0 dBm), Att  0.0 dB
+[2024/09/25-15:57:08.351-tkb32Func.cpp-446] obsInit(); Success
+[2024/09/25-15:57:13.222-tkb32Parser.cpp-411] setReqData(); Start observation
+[2024/09/25-15:57:13.222-tkb32Func.cpp-498] obsStart(); Success
+[2024/09/25-15:57:13.357-tkb32Func.cpp-531] ### Starting observation.
+[2024/09/25-15:57:13.357-calcBoth.cpp-688] _trkSetSof(); Set scan offset(0.00",0.00") coord=3(AZEL)
+[2024/09/25-15:57:13.357-tkb32Func.cpp-576] obsAuto(); Antenna Moving to Off-Point ID=-1
+[2024/09/25-15:57:14.357-tkb32Func.cpp-585] ## R-Sky ID=0
+[2024/09/25-15:57:14.357-if.cpp-685] ifSetAttOnOffR(); Set OnOffR=2 StepAtt=1.0 [dB]
+[2024/09/25-15:57:15.357-tkb32Func.cpp-1310] rCloseWait(); Chopper close
+[2024/09/25-15:57:15.357-tkb32Func.cpp-1348] rCloseWait(); Chopper close success
+[2024/09/25-15:57:15.357-tkb32Func.cpp-760] # R-Sky     Integ start
+[2024/09/25-15:57:15.357-tkb32Func.cpp-1426] integStart(); startTime=15:57:16, OnOffRoad = 2
+[2024/09/25-15:57:17.999-tkb32Func.cpp-793] # R-Sky     Integ end  (AZ,EL) = (179.999993, 80.003189)
+[2024/09/25-15:57:17.999-tkb32Func.cpp-606] ## OnOff ID=-1
+[2024/09/25-15:57:17.999-if.cpp-685] ifSetAttOnOffR(); Set OnOffR=1 StepAtt=2.0 [dB]
+[2024/09/25-15:57:17.999-tkb32Func.cpp-892] # Off-Point Integ start
+[2024/09/25-15:57:17.999-tkb32Func.cpp-1426] integStart(); startTime=15:57:20, OnOffRoad = 1
+[2024/09/25-15:57:24.000-tkb32Func.cpp-1037] # Off-Point Integ end
+[2024/09/25-15:57:24.000-calcBoth.cpp-688] _trkSetSof(); Set scan offset(0.00",-69768.09") coord=3(AZEL)
+[2024/09/25-15:57:24.000-tkb32Func.cpp-571] obsAuto(); Antenna Moving to On-Point ID=+1
+[2024/09/25-15:57:25.000-tkb32Func.cpp-606] ## OnOff ID=+1
+[2024/09/25-15:57:25.000-if.cpp-685] ifSetAttOnOffR(); Set OnOffR=1 StepAtt=2.0 [dB]
+[2024/09/25-15:57:25.000-tkb32Func.cpp-845] OnOff(); OnPoint(PSW) OnOffR = 0
+[2024/09/25-15:57:26.001-tkb32Func.cpp-889] # On-Point  Integ start
+[2024/09/25-15:57:26.001-tkb32Func.cpp-1426] integStart(); startTime=15:57:28, OnOffRoad = 0
+[2024/09/25-15:57:32.000-tkb32Func.cpp-1034] # On-Point  Integ end (On-Count:1) (AZ,EL) = (179.999993, 60.630233)
+[2024/09/25-15:57:32.000-calcBoth.cpp-688] _trkSetSof(); Set scan offset(0.00",-102393.69") coord=3(AZEL)
+[2024/09/25-15:57:32.000-tkb32Func.cpp-571] obsAuto(); Antenna Moving to On-Point ID=+2
+[2024/09/25-15:57:33.000-tkb32Func.cpp-606] ## OnOff ID=+2
+[2024/09/25-15:57:33.000-if.cpp-685] ifSetAttOnOffR(); Set OnOffR=1 StepAtt=2.0 [dB]
+[2024/09/25-15:57:33.000-tkb32Func.cpp-845] OnOff(); OnPoint(PSW) OnOffR = 0
+[2024/09/25-15:57:34.000-tkb32Func.cpp-889] # On-Point  Integ start
+[2024/09/25-15:57:34.000-tkb32Func.cpp-1426] integStart(); startTime=15:57:36, OnOffRoad = 0
+[2024/09/25-15:57:40.000-tkb32Func.cpp-1034] # On-Point  Integ end (On-Count:2) (AZ,EL) = (179.999993, 51.571764)
+[2024/09/25-15:57:40.000-calcBoth.cpp-688] _trkSetSof(); Set scan offset(0.00",-123425.51") coord=3(AZEL)
+[2024/09/25-15:57:40.000-tkb32Func.cpp-571] obsAuto(); Antenna Moving to On-Point ID=+3
+[2024/09/25-15:57:41.000-tkb32Func.cpp-606] ## OnOff ID=+3
+[2024/09/25-15:57:41.000-if.cpp-685] ifSetAttOnOffR(); Set OnOffR=1 StepAtt=2.0 [dB]
+[2024/09/25-15:57:41.000-tkb32Func.cpp-845] OnOff(); OnPoint(PSW) OnOffR = 0
+[2024/09/25-15:57:42.000-tkb32Func.cpp-889] # On-Point  Integ start
+[2024/09/25-15:57:42.000-tkb32Func.cpp-1426] integStart(); startTime=15:57:44, OnOffRoad = 0
+[2024/09/25-15:57:48.000-tkb32Func.cpp-1034] # On-Point  Integ end (On-Count:3) (AZ,EL) = (179.999993, 45.732892)
+[2024/09/25-15:57:48.000-calcBoth.cpp-688] _trkSetSof(); Set scan offset(0.00",-142504.89") coord=3(AZEL)
+[2024/09/25-15:57:48.000-tkb32Func.cpp-571] obsAuto(); Antenna Moving to On-Point ID=+4
+[2024/09/25-15:57:49.000-tkb32Func.cpp-606] ## OnOff ID=+4
+[2024/09/25-15:57:49.000-if.cpp-685] ifSetAttOnOffR(); Set OnOffR=1 StepAtt=2.0 [dB]
+[2024/09/25-15:57:49.000-tkb32Func.cpp-845] OnOff(); OnPoint(PSW) OnOffR = 0
+[2024/09/25-15:57:50.000-tkb32Func.cpp-889] # On-Point  Integ start
+[2024/09/25-15:57:50.000-tkb32Func.cpp-1426] integStart(); startTime=15:57:52, OnOffRoad = 0
+[2024/09/25-15:57:56.000-tkb32Func.cpp-1034] # On-Point  Integ end (On-Count:4) (AZ,EL) = (179.999993, 40.436696)
+[2024/09/25-15:57:56.000-calcBoth.cpp-688] _trkSetSof(); Set scan offset(0.00",-157717.14") coord=3(AZEL)
+[2024/09/25-15:57:56.000-tkb32Func.cpp-571] obsAuto(); Antenna Moving to On-Point ID=+5
+[2024/09/25-15:57:57.000-tkb32Func.cpp-606] ## OnOff ID=+5
+[2024/09/25-15:57:57.000-if.cpp-685] ifSetAttOnOffR(); Set OnOffR=1 StepAtt=2.0 [dB]
+[2024/09/25-15:57:57.000-tkb32Func.cpp-845] OnOff(); OnPoint(PSW) OnOffR = 0
+[2024/09/25-15:57:58.000-tkb32Func.cpp-889] # On-Point  Integ start
+[2024/09/25-15:57:58.000-tkb32Func.cpp-1426] integStart(); startTime=15:58:00, OnOffRoad = 0
+[2024/09/25-15:58:04.000-tkb32Func.cpp-1034] # On-Point  Integ end (On-Count:5) (AZ,EL) = (179.999993, 36.214541)
+[2024/09/25-15:58:04.000-calcBoth.cpp-688] _trkSetSof(); Set scan offset(0.00",-168055.88") coord=3(AZEL)
+[2024/09/25-15:58:04.000-tkb32Func.cpp-571] obsAuto(); Antenna Moving to On-Point ID=+6
+[2024/09/25-15:58:05.000-tkb32Func.cpp-606] ## OnOff ID=+6
+[2024/09/25-15:58:05.000-if.cpp-685] ifSetAttOnOffR(); Set OnOffR=1 StepAtt=2.0 [dB]
+[2024/09/25-15:58:05.000-tkb32Func.cpp-845] OnOff(); OnPoint(PSW) OnOffR = 0
+[2024/09/25-15:58:06.000-tkb32Func.cpp-889] # On-Point  Integ start
+[2024/09/25-15:58:06.000-tkb32Func.cpp-1426] integStart(); startTime=15:58:08, OnOffRoad = 0
+[2024/09/25-15:58:12.000-tkb32Func.cpp-1034] # On-Point  Integ end (On-Count:6) (AZ,EL) = (179.999993, 33.345456)
+[2024/09/25-15:58:12.000-calcBoth.cpp-688] _trkSetSof(); Set scan offset(0.00",-172914.77") coord=3(AZEL)
+[2024/09/25-15:58:12.000-tkb32Func.cpp-571] obsAuto(); Antenna Moving to On-Point ID=+7
+[2024/09/25-15:58:13.000-tkb32Func.cpp-606] ## OnOff ID=+7
+[2024/09/25-15:58:13.000-if.cpp-685] ifSetAttOnOffR(); Set OnOffR=1 StepAtt=2.0 [dB]
+[2024/09/25-15:58:13.000-tkb32Func.cpp-845] OnOff(); OnPoint(PSW) OnOffR = 0
+[2024/09/25-15:58:14.001-tkb32Func.cpp-889] # On-Point  Integ start
+[2024/09/25-15:58:14.001-tkb32Func.cpp-1426] integStart(); startTime=15:58:16, OnOffRoad = 0
+[2024/09/25-15:58:17.159-penguin_tracking.cpp-152] _setTime(): 20240925155817.158953
+[2024/09/25-15:58:17.159-penguin_tracking.cpp-366] penguin_tracking_work(): LST=0.000000, (Az, El)=(3.141593, 0.557949)
+[2024/09/25-15:58:20.000-tkb32Func.cpp-1034] # On-Point  Integ end (On-Count:7) (AZ,EL) = (179.999993, 31.997250)
+[2024/09/25-15:58:20.000-calcBoth.cpp-688] _trkSetSof(); Set scan offset(0.00",-186296.36") coord=3(AZEL)
+[2024/09/25-15:58:20.000-tkb32Func.cpp-571] obsAuto(); Antenna Moving to On-Point ID=+8
+[2024/09/25-15:58:21.000-tkb32Func.cpp-606] ## OnOff ID=+8
+[2024/09/25-15:58:21.000-if.cpp-685] ifSetAttOnOffR(); Set OnOffR=1 StepAtt=2.0 [dB]
+[2024/09/25-15:58:21.000-tkb32Func.cpp-845] OnOff(); OnPoint(PSW) OnOffR = 0
+[2024/09/25-15:58:22.000-tkb32Func.cpp-889] # On-Point  Integ start
+[2024/09/25-15:58:22.000-tkb32Func.cpp-1426] integStart(); startTime=15:58:24, OnOffRoad = 0
+[2024/09/25-15:58:28.000-tkb32Func.cpp-1034] # On-Point  Integ end (On-Count:8) (AZ,EL) = (179.999993, 28.284811)
+[2024/09/25-15:58:28.000-calcBoth.cpp-688] _trkSetSof(); Set scan offset(0.00",-193524.71") coord=3(AZEL)
+[2024/09/25-15:58:28.000-tkb32Func.cpp-571] obsAuto(); Antenna Moving to On-Point ID=+9
+[2024/09/25-15:58:29.000-tkb32Func.cpp-606] ## OnOff ID=+9
+[2024/09/25-15:58:29.000-if.cpp-685] ifSetAttOnOffR(); Set OnOffR=1 StepAtt=2.0 [dB]
+[2024/09/25-15:58:29.000-tkb32Func.cpp-845] OnOff(); OnPoint(PSW) OnOffR = 0
+[2024/09/25-15:58:30.000-tkb32Func.cpp-889] # On-Point  Integ start
+[2024/09/25-15:58:30.000-tkb32Func.cpp-1426] integStart(); startTime=15:58:32, OnOffRoad = 0
+[2024/09/25-15:58:36.000-tkb32Func.cpp-1034] # On-Point  Integ end (On-Count:9) (AZ,EL) = (179.999993, 26.279939)
+[2024/09/25-15:58:36.000-calcBoth.cpp-688] _trkSetSof(); Set scan offset(0.00",-201600.00") coord=3(AZEL)
+[2024/09/25-15:58:36.000-tkb32Func.cpp-571] obsAuto(); Antenna Moving to On-Point ID=+10
+[2024/09/25-15:58:37.000-tkb32Func.cpp-606] ## OnOff ID=+10
+[2024/09/25-15:58:37.000-if.cpp-685] ifSetAttOnOffR(); Set OnOffR=1 StepAtt=2.0 [dB]
+[2024/09/25-15:58:37.000-tkb32Func.cpp-845] OnOff(); OnPoint(PSW) OnOffR = 0
+[2024/09/25-15:58:38.000-tkb32Func.cpp-889] # On-Point  Integ start
+[2024/09/25-15:58:38.000-tkb32Func.cpp-1426] integStart(); startTime=15:58:40, OnOffRoad = 0
+[2024/09/25-15:58:44.000-tkb32Func.cpp-1034] # On-Point  Integ end (On-Count:10) (AZ,EL) = (179.999993, 24.040703)
+[2024/09/25-15:58:44.000-calcBoth.cpp-688] _trkSetSof(); Set scan offset(0.00",-203172.81") coord=3(AZEL)
+[2024/09/25-15:58:44.000-tkb32Func.cpp-571] obsAuto(); Antenna Moving to On-Point ID=+11
+[2024/09/25-15:58:45.000-tkb32Func.cpp-606] ## OnOff ID=+11
+[2024/09/25-15:58:45.000-if.cpp-685] ifSetAttOnOffR(); Set OnOffR=1 StepAtt=2.0 [dB]
+[2024/09/25-15:58:45.000-tkb32Func.cpp-845] OnOff(); OnPoint(PSW) OnOffR = 0
+[2024/09/25-15:58:46.000-tkb32Func.cpp-889] # On-Point  Integ start
+[2024/09/25-15:58:46.000-tkb32Func.cpp-1426] integStart(); startTime=15:58:48, OnOffRoad = 0
+[2024/09/25-15:58:52.000-tkb32Func.cpp-1034] # On-Point  Integ end (On-Count:11) (AZ,EL) = (179.999993, 23.604659)
+[2024/09/25-15:58:52.000-calcBoth.cpp-688] _trkSetSof(); Set scan offset(0.00",-205328.50") coord=3(AZEL)
+[2024/09/25-15:58:52.000-tkb32Func.cpp-571] obsAuto(); Antenna Moving to On-Point ID=+12
+[2024/09/25-15:58:53.000-tkb32Func.cpp-606] ## OnOff ID=+12
+[2024/09/25-15:58:53.000-if.cpp-685] ifSetAttOnOffR(); Set OnOffR=1 StepAtt=2.0 [dB]
+[2024/09/25-15:58:53.000-tkb32Func.cpp-845] OnOff(); OnPoint(PSW) OnOffR = 0
+[2024/09/25-15:58:54.000-tkb32Func.cpp-889] # On-Point  Integ start
+[2024/09/25-15:58:54.000-tkb32Func.cpp-1426] integStart(); startTime=15:58:56, OnOffRoad = 0
+[2024/09/25-15:59:00.000-tkb32Func.cpp-1034] # On-Point  Integ end (On-Count:12) (AZ,EL) = (179.999993, 23.007041)
+[2024/09/25-15:59:00.000-calcBoth.cpp-688] _trkSetSof(); Set scan offset(0.00",-215177.27") coord=3(AZEL)
+[2024/09/25-15:59:00.000-tkb32Func.cpp-571] obsAuto(); Antenna Moving to On-Point ID=+13
+[2024/09/25-15:59:01.000-tkb32Func.cpp-606] ## OnOff ID=+13
+[2024/09/25-15:59:01.000-if.cpp-685] ifSetAttOnOffR(); Set OnOffR=1 StepAtt=2.0 [dB]
+[2024/09/25-15:59:01.000-tkb32Func.cpp-845] OnOff(); OnPoint(PSW) OnOffR = 0
+[2024/09/25-15:59:02.000-tkb32Func.cpp-889] # On-Point  Integ start
+[2024/09/25-15:59:02.000-tkb32Func.cpp-1426] integStart(); startTime=15:59:04, OnOffRoad = 0
+[2024/09/25-15:59:08.000-tkb32Func.cpp-1034] # On-Point  Integ end (On-Count:13) (AZ,EL) = (179.999993, 20.277578)
+[2024/09/25-15:59:08.000-calcBoth.cpp-688] _trkSetSof(); Set scan offset(0.00",-218247.55") coord=3(AZEL)
+[2024/09/25-15:59:08.000-tkb32Func.cpp-571] obsAuto(); Antenna Moving to On-Point ID=+14
+[2024/09/25-15:59:09.000-tkb32Func.cpp-606] ## OnOff ID=+14
+[2024/09/25-15:59:09.000-if.cpp-685] ifSetAttOnOffR(); Set OnOffR=1 StepAtt=2.0 [dB]
+[2024/09/25-15:59:09.000-tkb32Func.cpp-845] OnOff(); OnPoint(PSW) OnOffR = 0
+[2024/09/25-15:59:10.000-tkb32Func.cpp-889] # On-Point  Integ start
+[2024/09/25-15:59:10.000-tkb32Func.cpp-1426] integStart(); startTime=15:59:12, OnOffRoad = 0
+[2024/09/25-15:59:16.000-tkb32Func.cpp-1034] # On-Point  Integ end (On-Count:14) (AZ,EL) = (179.999993, 19.427017)
+[2024/09/25-15:59:16.000-calcBoth.cpp-688] _trkSetSof(); Set scan offset(0.00",-221681.45") coord=3(AZEL)
+[2024/09/25-15:59:16.000-tkb32Func.cpp-571] obsAuto(); Antenna Moving to On-Point ID=+15
+[2024/09/25-15:59:17.000-tkb32Func.cpp-606] ## OnOff ID=+15
+[2024/09/25-15:59:17.000-if.cpp-685] ifSetAttOnOffR(); Set OnOffR=1 StepAtt=2.0 [dB]
+[2024/09/25-15:59:17.000-tkb32Func.cpp-845] OnOff(); OnPoint(PSW) OnOffR = 0
+[2024/09/25-15:59:18.000-tkb32Func.cpp-889] # On-Point  Integ start
+[2024/09/25-15:59:18.000-tkb32Func.cpp-1426] integStart(); startTime=15:59:20, OnOffRoad = 0
+[2024/09/25-15:59:21.159-penguin_tracking.cpp-152] _setTime(): 20240925155921.158951
+[2024/09/25-15:59:21.159-penguin_tracking.cpp-366] penguin_tracking_work(): LST=0.000000, (Az, El)=(3.141593, 0.321521)
+[2024/09/25-15:59:24.000-tkb32Func.cpp-1034] # On-Point  Integ end (On-Count:15) (AZ,EL) = (179.999993, 18.475966)
+[2024/09/25-15:59:24.000-calcBoth.cpp-688] _trkSetSof(); Set scan offset(0.00",-225431.52") coord=3(AZEL)
+[2024/09/25-15:59:24.000-tkb32Func.cpp-571] obsAuto(); Antenna Moving to On-Point ID=+16
+[2024/09/25-15:59:25.000-tkb32Func.cpp-606] ## OnOff ID=+16
+[2024/09/25-15:59:25.000-if.cpp-685] ifSetAttOnOffR(); Set OnOffR=1 StepAtt=2.0 [dB]
+[2024/09/25-15:59:25.000-tkb32Func.cpp-845] OnOff(); OnPoint(PSW) OnOffR = 0
+[2024/09/25-15:59:26.000-tkb32Func.cpp-889] # On-Point  Integ start
+[2024/09/25-15:59:26.000-tkb32Func.cpp-1426] integStart(); startTime=15:59:28, OnOffRoad = 0
+[2024/09/25-15:59:32.000-tkb32Func.cpp-1034] # On-Point  Integ end (On-Count:16) (AZ,EL) = (179.999993, 17.437682)
+[2024/09/25-15:59:32.000-calcBoth.cpp-688] _trkSetSof(); Set scan offset(0.00",-229458.46") coord=3(AZEL)
+[2024/09/25-15:59:32.000-tkb32Func.cpp-571] obsAuto(); Antenna Moving to On-Point ID=+17
+[2024/09/25-15:59:33.001-tkb32Func.cpp-606] ## OnOff ID=+17
+[2024/09/25-15:59:33.001-if.cpp-685] ifSetAttOnOffR(); Set OnOffR=1 StepAtt=2.0 [dB]
+[2024/09/25-15:59:33.001-tkb32Func.cpp-845] OnOff(); OnPoint(PSW) OnOffR = 0
+[2024/09/25-15:59:34.001-tkb32Func.cpp-889] # On-Point  Integ start
+[2024/09/25-15:59:34.001-tkb32Func.cpp-1426] integStart(); startTime=15:59:36, OnOffRoad = 0
+[2024/09/25-15:59:40.000-tkb32Func.cpp-1034] # On-Point  Integ end (On-Count:17) (AZ,EL) = (179.999993, 16.323203)
+[2024/09/25-15:59:40.000-calcBoth.cpp-688] _trkSetSof(); Set scan offset(0.00",-233729.40") coord=3(AZEL)
+[2024/09/25-15:59:40.000-tkb32Func.cpp-571] obsAuto(); Antenna Moving to On-Point ID=+18
+[2024/09/25-15:59:41.000-tkb32Func.cpp-606] ## OnOff ID=+18
+[2024/09/25-15:59:41.000-if.cpp-685] ifSetAttOnOffR(); Set OnOffR=1 StepAtt=2.0 [dB]
+[2024/09/25-15:59:41.000-tkb32Func.cpp-845] OnOff(); OnPoint(PSW) OnOffR = 0
+[2024/09/25-15:59:42.000-tkb32Func.cpp-889] # On-Point  Integ start
+[2024/09/25-15:59:42.000-tkb32Func.cpp-1426] integStart(); startTime=15:59:44, OnOffRoad = 0
+[2024/09/25-15:59:48.000-tkb32Func.cpp-1034] # On-Point  Integ end (On-Count:18) (AZ,EL) = (179.999993, 15.141770)
+[2024/09/25-15:59:48.000-calcBoth.cpp-688] _trkSetSof(); Set scan offset(0.00",-231016.58") coord=3(AZEL)
+[2024/09/25-15:59:48.000-tkb32Func.cpp-571] obsAuto(); Antenna Moving to On-Point ID=+19
+[2024/09/25-15:59:49.000-tkb32Func.cpp-606] ## OnOff ID=+19
+[2024/09/25-15:59:49.000-if.cpp-685] ifSetAttOnOffR(); Set OnOffR=1 StepAtt=2.0 [dB]
+[2024/09/25-15:59:49.000-tkb32Func.cpp-845] OnOff(); OnPoint(PSW) OnOffR = 0
+[2024/09/25-15:59:50.000-tkb32Func.cpp-889] # On-Point  Integ start
+[2024/09/25-15:59:50.000-tkb32Func.cpp-1426] integStart(); startTime=15:59:52, OnOffRoad = 0
+[2024/09/25-15:59:56.000-tkb32Func.cpp-1034] # On-Point  Integ end (On-Count:19) (AZ,EL) = (179.999993, 15.892115)
+[2024/09/25-15:59:56.000-calcBoth.cpp-688] _trkSetSof(); Set scan offset(0.00",-235696.40") coord=3(AZEL)
+[2024/09/25-15:59:56.000-tkb32Func.cpp-571] obsAuto(); Antenna Moving to On-Point ID=+20
+[2024/09/25-15:59:57.000-tkb32Func.cpp-606] ## OnOff ID=+20
+[2024/09/25-15:59:57.000-if.cpp-685] ifSetAttOnOffR(); Set OnOffR=1 StepAtt=2.0 [dB]
+[2024/09/25-15:59:57.000-tkb32Func.cpp-845] OnOff(); OnPoint(PSW) OnOffR = 0
+[2024/09/25-15:59:58.000-tkb32Func.cpp-889] # On-Point  Integ start
+[2024/09/25-15:59:58.000-tkb32Func.cpp-1426] integStart(); startTime=16:00:00, OnOffRoad = 0
+[2024/09/25-16:00:04.000-tkb32Func.cpp-1034] # On-Point  Integ end (On-Count:20) (AZ,EL) = (179.999993, 14.597939)
+[2024/09/25-16:00:04.001-tkb32Func.cpp-643] ### End observation.
+[2024/09/25-16:01:47.548-tkb32.cpp-212] MAIN__(); End ./ant30
