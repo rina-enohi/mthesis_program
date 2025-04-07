@@ -11,7 +11,7 @@ NASA Global Modeling and Assimilation Office, (https://gmao.gsfc.nasa.gov/reanal
 
 ## output_file
 
-シミュレーション結果の出力データ。
+シミュレーション結果の出力データ。全て天頂角Z=45として計算した結果です。
 
 ファイル名のフォーマット：
 DomeFuji_season_percentile.out
